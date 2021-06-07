@@ -87,10 +87,6 @@
     "name": "Old Vintage Cap",
     "price": 34
   },
-  "12000833": {
-    "name": "DOS 5.0",
-    "price": 50
-  },
   "12314206": {
     "name": "Cheetar",
     "price": 33
@@ -179,6 +175,10 @@
     "name": "Happy Clown",
     "price": 35
   },
+  "17614431": {
+    "name": "Winter Ski Cap",
+    "price": 50
+  },
   "17735403": {
     "name": "Exoflex Spax Helmex",
     "price": 25
@@ -198,10 +198,6 @@
   "18999898": {
     "name": "Droid Army",
     "price": 25
-  },
-  "19060702": {
-    "name": "Fantasy Elf",
-    "price": 50
   },
   "19398728": {
     "name": "ROBLOX Santa",
@@ -258,10 +254,6 @@
   "21804873": {
     "name": "Barton Bruisers",
     "price": 44
-  },
-  "22023271": {
-    "name": "Tropical State of Mind",
-    "price": 50
   },
   "22160652": {
     "name": "Blind Rogue",
@@ -511,8 +503,8 @@
     "name": "Stylish Sailor",
     "price": 45
   },
-  "67239926": {
-    "name": "Wizard Santa Cap",
+  "67291394": {
+    "name": "Unicorn Beanie",
     "price": 50
   },
   "68259961": {
@@ -535,10 +527,6 @@
     "name": "Robber Beanie",
     "price": 30
   },
-  "89615321": {
-    "name": "Hungry Dino",
-    "price": 50
-  },
   "89621209": {
     "name": "Green Plaid Cap",
     "price": 35
@@ -558,10 +546,6 @@
   "93053082": {
     "name": "Golf Master Cap",
     "price": 25
-  },
-  "96079383": {
-    "name": "Franken Knit",
-    "price": 50
   },
   "96678397": {
     "name": "Blue Striped Cap",
@@ -618,6 +602,10 @@
   "102611588": {
     "name": "Plaid Lad",
     "price": 25
+  },
+  "102618663": {
+    "name": "Fox Ears",
+    "price": 50
   },
   "102619342": {
     "name": "Punk Kid",
@@ -715,6 +703,10 @@
     "name": "Colorful Cadet",
     "price": 25
   },
+  "116778671": {
+    "name": "Brown Striped Cap",
+    "price": 50
+  },
   "116778751": {
     "name": "Marching Band Cap",
     "price": 35
@@ -734,10 +726,6 @@
   "119085989": {
     "name": "Sunny Beach Visor",
     "price": 15
-  },
-  "120504908": {
-    "name": "Tri Zipper Cadet ",
-    "price": 50
   },
   "120506165": {
     "name": "Teal Fashion Cap",
@@ -775,10 +763,6 @@
     "name": "Ninja Mask of Fire",
     "price": 12
   },
-  "124753623": {
-    "name": "Octopal",
-    "price": 50
-  },
   "124753872": {
     "name": "Operator Cap",
     "price": 25
@@ -795,6 +779,14 @@
     "name": "Red Plaid Golf Cap",
     "price": 15
   },
+  "125862211": {
+    "name": "Blue Bird Cap",
+    "price": 50
+  },
+  "125862237": {
+    "name": "Green Bird Cap",
+    "price": 50
+  },
   "125886232": {
     "name": "Plain Leather Military Cap",
     "price": 35
@@ -802,10 +794,6 @@
   "125886373": {
     "name": "Classic Fisherman's Cap",
     "price": 20
-  },
-  "126702804": {
-    "name": "Spikez",
-    "price": 50
   },
   "128157644": {
     "name": "1st Day of School Baseball Cap",
@@ -838,10 +826,6 @@
   "150337814": {
     "name": "Violet Ribbons",
     "price": 25
-  },
-  "155503111": {
-    "name": "Kitteh Wizard",
-    "price": 50
   },
   "161211138": {
     "name": "Coffee Cap",
@@ -890,10 +874,6 @@
   "253155235": {
     "name": "I <3 Obbys Cap",
     "price": 10
-  },
-  "264988911": {
-    "name": "Hungry Shark Baseball Cap",
-    "price": 50
   },
   "266769148": {
     "name": "LOL Beanie",
@@ -1079,10 +1059,6 @@
     "name": "Fearless Cap",
     "price": 15
   },
-  "1241182100": {
-    "name": "Kwanzaa Knit",
-    "price": 50
-  },
   "1609404722": {
     "name": "Fine China Ramen Bowl",
     "price": 15
@@ -1243,8 +1219,8 @@
     "name": "Ten Sip Hat",
     "price": 50
   },
-  "3663597801": {
-    "name": "Bloxy Cola Zap Bottle Cap",
+  "3704319937": {
+    "name": "Native Musician",
     "price": 50
   },
   "3756303924": {
@@ -1287,6 +1263,10 @@
     "name": "International Fedora - Brazil",
     "price": 0
   },
+  "4071349396": {
+    "name": "The Principal",
+    "price": 50
+  },
   "4094878701": {
     "name": "International Fedora - Mexico",
     "price": 0
@@ -1315,12 +1295,16 @@
     "name": "International Fedora - Russia",
     "price": 0
   },
-  "4440850283": {
-    "name": "Backwards Christmas Hat",
+  "4457819912": {
+    "name": "Silly Red Ball Cap",
     "price": 50
   },
   "4481996479": {
     "name": "Jade Necromancer Mask",
+    "price": 50
+  },
+  "4482004562": {
+    "name": "Ruby Necromancer Mask",
     "price": 50
   },
   "4489239608": {
@@ -1343,16 +1327,16 @@
     "name": "Band Class Gone Wrong",
     "price": 50
   },
+  "4524498547": {
+    "name": "Santa's Fedora",
+    "price": 50
+  },
   "4526337663": {
     "name": "Miss Misa",
     "price": 50
   },
-  "4526780762": {
-    "name": "Bandites's Red Cowboy Hat",
-    "price": 50
-  },
-  "4537626112": {
-    "name": "Pistachio's Green Hair Bow",
+  "4528616152": {
+    "name": "Classic Ornament of Silver And Gold",
     "price": 50
   },
   "4584029953": {
@@ -1367,17 +1351,9 @@
     "name": "Black Bow",
     "price": 50
   },
-  "4585213421": {
-    "name": "Cherry Cream Cupcake",
-    "price": 50
-  },
   "4622081834": {
     "name": "International Fedora - China",
     "price": 0
-  },
-  "4627465376": {
-    "name": "Space Criminal",
-    "price": 50
   },
   "4641550802": {
     "name": "Cyan Neon Cat Ears",
@@ -1399,16 +1375,8 @@
     "name": "Pink Gaming Headset",
     "price": 50
   },
-  "4660425043": {
-    "name": "Black Ahoge Hair",
-    "price": 50
-  },
-  "4684665440": {
-    "name": "The Mark",
-    "price": 50
-  },
-  "4708232944": {
-    "name": "Bob",
+  "4684786934": {
+    "name": "Stable Connection",
     "price": 50
   },
   "4710160888": {
@@ -1427,16 +1395,16 @@
     "name": "Music Notes",
     "price": 50
   },
-  "4753467054": {
-    "name": "Evil Side",
-    "price": 50
-  },
   "4753647581": {
     "name": "Blonde Ahoge Hair",
     "price": 50
   },
-  "4771791786": {
-    "name": "Maelstrom Spellbinder",
+  "4753840177": {
+    "name": "Tiny Blimp",
+    "price": 50
+  },
+  "4771868364": {
+    "name": "Fading HDZ Headphones",
     "price": 50
   },
   "4772267881": {
@@ -1445,6 +1413,10 @@
   },
   "4772676253": {
     "name": "Work Pencil",
+    "price": 50
+  },
+  "4775383291": {
+    "name": "Gaming Mermaid Seashell Headphones",
     "price": 50
   },
   "4776527650": {
@@ -1457,6 +1429,18 @@
   },
   "4794068096": {
     "name": "Pig beanie",
+    "price": 50
+  },
+  "4794110476": {
+    "name": "Corrupt Side",
+    "price": 50
+  },
+  "4794593642": {
+    "name": "Angry Slime",
+    "price": 50
+  },
+  "4794595068": {
+    "name": "Happy Slime",
     "price": 50
   },
   "4796639763": {
@@ -1475,16 +1459,20 @@
     "name": "Rainbow Cloudphones",
     "price": 50
   },
-  "4823384910": {
-    "name": "3D Bunny Ears",
+  "4820904289": {
+    "name": "Shiba Inu Ears",
     "price": 50
   },
-  "4846138033": {
-    "name": "Cartoon Wick",
+  "4821050466": {
+    "name": "Doodle Halo (White)",
     "price": 50
   },
-  "4846168843": {
-    "name": "Cartoon Shadow Wick",
+  "4822556958": {
+    "name": "Balanced Floating  Crown",
+    "price": 50
+  },
+  "4826032498": {
+    "name": "Noob Showcase",
     "price": 50
   },
   "4846176746": {
@@ -1515,8 +1503,8 @@
     "name": "Black Summer Hat",
     "price": 50
   },
-  "4876220901": {
-    "name": "Sand Shark Ears",
+  "4875645970": {
+    "name": "Bright Sands Outrider",
     "price": 50
   },
   "4877706302": {
@@ -1527,20 +1515,24 @@
     "name": "Arctic Balaclava",
     "price": 50
   },
-  "4878545452": {
-    "name": "Mailbox \ud83d\udcec",
+  "4878175444": {
+    "name": "Chicken Nest",
     "price": 50
   },
   "4879258930": {
     "name": "Black Bear Hat",
     "price": 50
   },
-  "4879807143": {
-    "name": "Heart Hoops",
+  "4882755536": {
+    "name": "Suspicious Fedora of Silver",
     "price": 50
   },
   "4891424196": {
     "name": "Desert Novice",
+    "price": 50
+  },
+  "4903960670": {
+    "name": "Red Camo Headband",
     "price": 50
   },
   "4904139703": {
@@ -1555,24 +1547,12 @@
     "name": "Bunny Friend",
     "price": 50
   },
-  "4905246242": {
-    "name": "Black Bunny Bow Ears",
+  "4962472660": {
+    "name": "Halo of Diamonds",
     "price": 50
   },
   "4962527655": {
     "name": "Single White Horn",
-    "price": 50
-  },
-  "4962536473": {
-    "name": "Balloon Swarm",
-    "price": 50
-  },
-  "4962559015": {
-    "name": "Stylish Red n' black Sidebows",
-    "price": 50
-  },
-  "4962577812": {
-    "name": "Stylish Galaxy Sidebows",
     "price": 50
   },
   "4962614738": {
@@ -1583,6 +1563,18 @@
     "name": "Blue Flower Crown",
     "price": 50
   },
+  "4962725629": {
+    "name": "Pink Flower Crown",
+    "price": 50
+  },
+  "4962827914": {
+    "name": "Rainbow Cap (White)",
+    "price": 50
+  },
+  "4962839428": {
+    "name": "Yellow Cap",
+    "price": 50
+  },
   "4962845876": {
     "name": "Purple Cap",
     "price": 50
@@ -1591,12 +1583,12 @@
     "name": "Light Pink Cap",
     "price": 50
   },
-  "4963122908": {
-    "name": "Purple Hoodie",
+  "4963106356": {
+    "name": "White Hoodie",
     "price": 50
   },
-  "4963124100": {
-    "name": "Pink Hoodie",
+  "4963122908": {
+    "name": "Purple Hoodie",
     "price": 50
   },
   "4963660867": {
@@ -1607,36 +1599,36 @@
     "name": "Pom poms",
     "price": 50
   },
-  "4995228431": {
-    "name": "Wireframe Halo",
-    "price": 50
-  },
   "4995288278": {
     "name": "Jankee With No Brim",
     "price": 50
   },
-  "4996608180": {
-    "name": "Sunrise Spring Fawn Antlers",
+  "4996607648": {
+    "name": "Blue Spring Fawn Antlers",
     "price": 50
   },
   "4996623417": {
     "name": "White Helmet",
     "price": 50
   },
+  "4998223477": {
+    "name": "Pink Spring Fawn Antlers",
+    "price": 50
+  },
   "4998574712": {
     "name": "Ghost Lantern Companion",
     "price": 50
   },
-  "4998612465": {
-    "name": "Nikuman Companion",
+  "4998961862": {
+    "name": "Quality Pink Ears",
     "price": 50
   },
   "5022890415": {
     "name": "Luxury Kestrel Hat",
     "price": 50
   },
-  "5028886626": {
-    "name": "Pizza Earrings",
+  "5028556735": {
+    "name": "Mugshot",
     "price": 50
   },
   "5029082175": {
@@ -1647,16 +1639,24 @@
     "name": "Ink Head",
     "price": 50
   },
-  "5029516971": {
-    "name": "Simple Blue Hair Bows",
+  "5029520727": {
+    "name": "Simple Galaxy Hair Bows",
+    "price": 50
+  },
+  "5030013870": {
+    "name": "Black Pom poms",
     "price": 50
   },
   "5031974397": {
     "name": "Wasteland Strider Hood",
     "price": 50
   },
-  "5063496025": {
-    "name": "Pink Baby Carno",
+  "5063476059": {
+    "name": "Green Baby Carno",
+    "price": 50
+  },
+  "5063480155": {
+    "name": "Blue Baby Carno",
     "price": 50
   },
   "5063551803": {
@@ -1667,12 +1667,8 @@
     "name": "Italy Sphere",
     "price": 50
   },
-  "5064027152": {
-    "name": "Woodland Utility Cover",
-    "price": 50
-  },
-  "5064454107": {
-    "name": "Brown Sergal Head",
+  "5063849479": {
+    "name": "Jungle Pith Helmet",
     "price": 50
   },
   "5067369306": {
@@ -1687,8 +1683,8 @@
     "name": "Stylish Cadet - Black",
     "price": 50
   },
-  "5099479597": {
-    "name": "Purple Paint",
+  "5099481456": {
+    "name": "Blue Paint",
     "price": 50
   },
   "5099484857": {
@@ -1699,20 +1695,20 @@
     "name": "Player 4",
     "price": 50
   },
+  "5099742197": {
+    "name": "Super Cap Red",
+    "price": 50
+  },
   "5099918400": {
     "name": "Banana Hat",
     "price": 50
   },
-  "5104111481": {
-    "name": "Guardian Star Hat",
+  "5104137044": {
+    "name": "Gallant's Knight Helmet",
     "price": 50
   },
-  "5104165760": {
-    "name": "Events Hunter Cap",
-    "price": 50
-  },
-  "5107533172": {
-    "name": "Pug",
+  "5131999796": {
+    "name": "Baby Spino",
     "price": 50
   },
   "5132223270": {
@@ -1731,8 +1727,12 @@
     "name": "Zodiac Compass",
     "price": 50
   },
-  "5136989401": {
-    "name": "Ramen Hat",
+  "5137025636": {
+    "name": "Raksha Hat",
+    "price": 50
+  },
+  "5141152420": {
+    "name": "Sushi Hat",
     "price": 50
   },
   "5157683216": {
@@ -1747,28 +1747,28 @@
     "name": "Militarized Mining Contractor Helmet",
     "price": 50
   },
-  "5166986554": {
-    "name": "Fancy Earrings",
+  "5164932420": {
+    "name": "Pink Mr.Peck Hat",
+    "price": 50
+  },
+  "5197307540": {
+    "name": "Kawaii Bear Bow",
     "price": 50
   },
   "5197380927": {
     "name": "Monkey Hoodie",
     "price": 50
   },
-  "5197554975": {
-    "name": "Black  Egg-Bert hat",
-    "price": 50
-  },
   "5197592484": {
     "name": "Heavy Corporate Enforcer Helmet",
     "price": 50
   },
-  "5199282179": {
-    "name": "Blue Bow Straw hat",
+  "5198475750": {
+    "name": "Fried Chicken Hat",
     "price": 50
   },
-  "5200301597": {
-    "name": "Moon Light Floating Crown",
+  "5199282179": {
+    "name": "Blue Bow Straw hat",
     "price": 50
   },
   "5200823778": {
@@ -1787,28 +1787,24 @@
     "name": "Red Crystal Halo",
     "price": 50
   },
-  "5231223671": {
-    "name": "Black Tophead",
-    "price": 50
-  },
   "5231640509": {
     "name": "Cartoony Rainbow Crown",
-    "price": 50
-  },
-  "5232730330": {
-    "name": "The Cube",
     "price": 50
   },
   "5233682079": {
     "name": "Cute Demon Horns",
     "price": 50
   },
-  "5254354220": {
-    "name": "Cartoony Rainbow Hat",
+  "5268756266": {
+    "name": "Lovely Golden Earrings with Pink Bow",
     "price": 50
   },
   "5268763341": {
     "name": "Lovely Golden Earrings with Brown Bow",
+    "price": 50
+  },
+  "5270180821": {
+    "name": "Floating Black Sparkling Shine",
     "price": 50
   },
   "5270211650": {
@@ -1823,6 +1819,10 @@
     "name": "Twinkling Stars Black",
     "price": 50
   },
+  "5272066218": {
+    "name": "American Hat",
+    "price": 50
+  },
   "5275820757": {
     "name": "Cartoony Banded Top Hat",
     "price": 50
@@ -1831,16 +1831,16 @@
     "name": "Purple Cartoony Demon Head",
     "price": 50
   },
-  "5314012437": {
-    "name": "Cartoony Rainbow Fedora",
-    "price": 50
-  },
   "5314027914": {
     "name": "Pineapple Hat",
     "price": 50
   },
   "5315110536": {
     "name": "Blue Top Hat",
+    "price": 50
+  },
+  "5321059727": {
+    "name": "Paper Plane",
     "price": 50
   },
   "5355289677": {
@@ -1859,16 +1859,16 @@
     "name": "Cyan Neon Bunny Ears",
     "price": 50
   },
-  "5355846514": {
-    "name": "Pink Silk Bonnet",
-    "price": 50
-  },
   "5357285682": {
     "name": "Sunny Hat",
     "price": 50
   },
   "5358588732": {
     "name": "Galaxy Horns",
+    "price": 50
+  },
+  "5358913853": {
+    "name": "Slice Of Noob",
     "price": 50
   },
   "5359127589": {
@@ -1879,24 +1879,44 @@
     "name": "Retrowave Rider",
     "price": 50
   },
-  "5360028986": {
-    "name": "Paper Bag Hat",
-    "price": 50
-  },
   "5360054067": {
     "name": "Shaylo Sweetheart Bow",
+    "price": 50
+  },
+  "5410099943": {
+    "name": "Potato of Doom",
     "price": 50
   },
   "5410220703": {
     "name": "Diamond Cluster Earrings",
     "price": 50
   },
+  "5410367280": {
+    "name": "Black Kitty Covering your Eyes",
+    "price": 50
+  },
   "5410382371": {
     "name": "Ginger Kitty Covering your Eyes",
     "price": 50
   },
+  "5411040118": {
+    "name": "Red Swirly Gaming Headset",
+    "price": 50
+  },
   "5411954088": {
     "name": "Sky Blue Pajama Hat",
+    "price": 50
+  },
+  "5412048596": {
+    "name": "C.D.U Blue Helmet",
+    "price": 50
+  },
+  "5415072842": {
+    "name": "Galaxy Halo",
+    "price": 50
+  },
+  "5451362997": {
+    "name": "Trench Shark Ears",
     "price": 50
   },
   "5466080089": {
@@ -1915,6 +1935,10 @@
     "name": "Koi Hairpin",
     "price": 50
   },
+  "5506366636": {
+    "name": "King Frog",
+    "price": 50
+  },
   "5506394373": {
     "name": "Mr.Spade",
     "price": 50
@@ -1931,24 +1955,28 @@
     "name": "Vintage Trendy Sunhat",
     "price": 50
   },
-  "5553410972": {
-    "name": "Pastel Star Earrings ",
+  "5535028025": {
+    "name": "Butterfly Earrings",
     "price": 50
   },
-  "5555493916": {
-    "name": "Cyan Sergal Head",
+  "5550864981": {
+    "name": "Bear Hat",
     "price": 50
   },
-  "5557954776": {
-    "name": "Pink Teddy Bear Head",
+  "5553375146": {
+    "name": "Head Sanitizer",
+    "price": 50
+  },
+  "5555337838": {
+    "name": "Hyena Ears",
     "price": 50
   },
   "5565759586": {
     "name": "Glazin' Visor",
     "price": 50
   },
-  "5591417310": {
-    "name": "Devil Hood",
+  "5591396120": {
+    "name": "Super Beanie Pink",
     "price": 50
   },
   "5591693951": {
@@ -1959,52 +1987,56 @@
     "name": "Brown Neko Ears",
     "price": 50
   },
-  "5592367959": {
-    "name": "Fruit Stem",
+  "5592272997": {
+    "name": "Gray Neko Ears",
+    "price": 50
+  },
+  "5593449718": {
+    "name": "Black Brim Beret",
     "price": 50
   },
   "5593913159": {
     "name": "Panda Hoodie",
     "price": 50
   },
-  "5618036089": {
-    "name": "Holographic Visor",
-    "price": 50
-  },
   "5618087049": {
     "name": "User is a bot",
+    "price": 50
+  },
+  "5618129512": {
+    "name": "Noob Ears",
     "price": 50
   },
   "5618195149": {
     "name": "Retro Motorist Helmet",
     "price": 50
   },
-  "5618278017": {
-    "name": "Gold Dystopian Shades",
+  "5618267860": {
+    "name": "Blue Dystopian Shades",
     "price": 50
   },
-  "5618695448": {
-    "name": "Crown Of Summer",
+  "5618831481": {
+    "name": "Purple Floating Crown",
     "price": 50
   },
   "5618856768": {
     "name": "Cyan Party Hat",
     "price": 50
   },
-  "5618858907": {
-    "name": "Blue Party Hat",
+  "5618861913": {
+    "name": "Magenta Party Hat",
     "price": 50
   },
-  "5618860375": {
-    "name": "Purple Party Hat",
+  "5618867227": {
+    "name": "Orange And Blue Party Hat",
     "price": 50
   },
   "5618879955": {
     "name": "Lavender Lime Party Hat",
     "price": 50
   },
-  "5618893199": {
-    "name": "Epic Party Hat",
+  "5618882752": {
+    "name": "Bumblebee Party Hat",
     "price": 50
   },
   "5622481861": {
@@ -2023,28 +2055,12 @@
     "name": "Snow Wolf Ears",
     "price": 50
   },
-  "5644683134": {
-    "name": "Falling Fruit",
-    "price": 50
-  },
-  "5644731469": {
-    "name": "Green Cracked Ornament",
-    "price": 50
-  },
-  "5644734546": {
-    "name": "White Cracked Ornament",
-    "price": 50
-  },
-  "5645493918": {
-    "name": "Happy Stickman",
+  "5644733106": {
+    "name": "Red Cracked Ornament",
     "price": 50
   },
   "5645495540": {
     "name": "Concerned Stickman",
-    "price": 50
-  },
-  "5645497792": {
-    "name": "Confused Stickman",
     "price": 50
   },
   "5645676047": {
@@ -2059,22 +2075,6 @@
     "name": "Galaxy Headsets",
     "price": 50
   },
-  "5651668695": {
-    "name": "Chill White Hoodie",
-    "price": 50
-  },
-  "5673673091": {
-    "name": "Kimy Head",
-    "price": 50
-  },
-  "5673880841": {
-    "name": "Black Chained Halo",
-    "price": 50
-  },
-  "5674263094": {
-    "name": "Ivy Antlers",
-    "price": 50
-  },
   "5674298865": {
     "name": "Angry Eye Head",
     "price": 50
@@ -2083,12 +2083,12 @@
     "name": "Green Moto Rider",
     "price": 50
   },
-  "5699778651": {
-    "name": "Halloween Head",
+  "5699734991": {
+    "name": "Pixel Rainbow Outline",
     "price": 50
   },
-  "5700069810": {
-    "name": "Cartoony Pumpkin Head",
+  "5699778651": {
+    "name": "Halloween Head",
     "price": 50
   },
   "5700110249": {
@@ -2099,32 +2099,32 @@
     "name": "White Fuzzy Oversized Bunny Hood",
     "price": 50
   },
-  "5700157892": {
-    "name": "Rainbow Flame Halo",
-    "price": 50
-  },
-  "5700236525": {
-    "name": "Strawberry Cowgirl",
+  "5700139578": {
+    "name": "Blue Fuzzy Oversized Cat Hood",
     "price": 50
   },
   "5700490578": {
     "name": "Haunted Pumpkin Kid",
     "price": 50
   },
+  "5701101408": {
+    "name": "Blonde Front Pieces",
+    "price": 50
+  },
+  "5701617057": {
+    "name": "Bear Headphones",
+    "price": 50
+  },
   "5702641620": {
     "name": "Chain Halo",
     "price": 50
   },
-  "5702650075": {
-    "name": "Bright Chain Halo",
+  "5702870905": {
+    "name": "Ugly Mug: Goofy",
     "price": 50
   },
   "5702879349": {
     "name": "Ugly Mug: Happy",
-    "price": 50
-  },
-  "5703081230": {
-    "name": "Mr. Chomps",
     "price": 50
   },
   "5723981322": {
@@ -2143,12 +2143,24 @@
     "name": "Rainbow Jack O Lantern Hat",
     "price": 50
   },
+  "5727507592": {
+    "name": "Ghost Headphones",
+    "price": 50
+  },
   "5727976684": {
     "name": "Stylish Pink Camo Hat",
     "price": 50
   },
+  "5727980861": {
+    "name": "Stylish Noob Hat",
+    "price": 50
+  },
   "5727986030": {
     "name": "0000. Stylish Dark Camo Hat",
+    "price": 50
+  },
+  "5728015163": {
+    "name": "Stylish Lime Camo Hat",
     "price": 50
   },
   "5728211446": {
@@ -2159,24 +2171,32 @@
     "name": "The Cool Beanie - Black",
     "price": 50
   },
-  "5733510219": {
-    "name": "Cartoon Explosion",
+  "5728368572": {
+    "name": "Candy Corn Earring",
     "price": 50
   },
-  "5735733203": {
-    "name": "Dark Flame Halo",
-    "price": 50
-  },
-  "5764324883": {
-    "name": "Pumpkin Head",
+  "5728560959": {
+    "name": "Aries",
     "price": 50
   },
   "5765045840": {
     "name": "Blue Juggernaut Helmet",
     "price": 50
   },
+  "5765086041": {
+    "name": "Kawaii Fluff",
+    "price": 50
+  },
   "5765092061": {
     "name": "Black Fluff",
+    "price": 50
+  },
+  "5765092840": {
+    "name": "White Fluff",
+    "price": 50
+  },
+  "5765166462": {
+    "name": "Spider Earring",
     "price": 50
   },
   "5766891999": {
@@ -2195,6 +2215,14 @@
     "name": "Cute Watermelon Bow",
     "price": 50
   },
+  "5780452454": {
+    "name": "Purple Chain Halo",
+    "price": 50
+  },
+  "5780471925": {
+    "name": "Inverted Ghost Head",
+    "price": 50
+  },
   "5780506473": {
     "name": "WAVE Oil Slick Cap - Infrared Magma",
     "price": 50
@@ -2211,24 +2239,28 @@
     "name": "Purple and Black Jester Hat",
     "price": 50
   },
+  "5806416252": {
+    "name": "Mummy Head ",
+    "price": 50
+  },
   "5806422857": {
     "name": "Baby Zombie",
+    "price": 50
+  },
+  "5817197447": {
+    "name": "0000. White Beanie",
     "price": 50
   },
   "5819080786": {
     "name": "a mailbox \ud83d\udcec",
     "price": 50
   },
-  "5829820108": {
-    "name": "Happy Home In Robloxia",
-    "price": 50
-  },
   "5829879026": {
     "name": "Possessed Pumpkin",
     "price": 50
   },
-  "5830500297": {
-    "name": "Pink Kidcore Hat",
+  "5830498317": {
+    "name": "Purple Kidcore Hat",
     "price": 50
   },
   "5830655388": {
@@ -2259,6 +2291,10 @@
     "name": "Haunted Demon Skull",
     "price": 50
   },
+  "5857870986": {
+    "name": "Light Blue Baseball Cap",
+    "price": 50
+  },
   "5858553197": {
     "name": "Cute Starry Hat",
     "price": 50
@@ -2275,12 +2311,8 @@
     "name": "Chinese Knot Earrings",
     "price": 50
   },
-  "5859883987": {
-    "name": "Night Baron Hat",
-    "price": 50
-  },
-  "5860083081": {
-    "name": "Pink Patterned  Hat",
+  "5860127786": {
+    "name": "Bee Fashionable Striped Hat",
     "price": 50
   },
   "5861264185": {
@@ -2291,16 +2323,24 @@
     "name": "White and Blue Shattered Demon ",
     "price": 50
   },
-  "5862359178": {
-    "name": "Red Shattered Demon ",
-    "price": 50
-  },
-  "5869937634": {
-    "name": "Skully",
-    "price": 50
-  },
   "5869964854": {
     "name": "Electric Skully",
+    "price": 50
+  },
+  "5877229545": {
+    "name": "Solid Pink Visor",
+    "price": 50
+  },
+  "5890395431": {
+    "name": "Joyful Emote Mask",
+    "price": 50
+  },
+  "5890420699": {
+    "name": "Fishphones",
+    "price": 50
+  },
+  "5890423112": {
+    "name": "Red Winter Hat",
     "price": 50
   },
   "5890441086": {
@@ -2319,6 +2359,10 @@
     "name": "Pink Chain Hat",
     "price": 50
   },
+  "5891051592": {
+    "name": "White Chain  Hat ",
+    "price": 50
+  },
   "5891128100": {
     "name": "Dark Brow Bear Hat",
     "price": 50
@@ -2327,20 +2371,16 @@
     "name": "Pink BOwOM Box",
     "price": 50
   },
-  "5891631310": {
-    "name": "Phantom Mask",
+  "5891610203": {
+    "name": "Pink Hair Bow",
     "price": 50
   },
-  "5891735821": {
-    "name": "Snow Fox Ears",
+  "5891798496": {
+    "name": "Crusader's Great Helm Hood",
     "price": 50
   },
   "5891815819": {
     "name": "Crusader's Black Great Helm Hood",
-    "price": 50
-  },
-  "5895321500": {
-    "name": "Black Cat Hat",
     "price": 50
   },
   "5897579035": {
@@ -2359,24 +2399,28 @@
     "name": "Old Town Cowboy Hat - Lil Nas X (LNX)",
     "price": 0
   },
-  "5918452013": {
-    "name": "Chill Penguin Hood",
-    "price": 50
-  },
   "5918614390": {
     "name": "Festive Elf Hat",
     "price": 50
   },
-  "5944809574": {
-    "name": "Green Plaid Santa Hat",
+  "5918781445": {
+    "name": "Ghost Rider Scarf",
     "price": 50
   },
-  "5944894687": {
-    "name": "Hair Accessory Daisy v2",
+  "5919456921": {
+    "name": "Pink Flower Headgear",
     "price": 50
   },
-  "5945013896": {
-    "name": "Realistic cursed goblin",
+  "5919564561": {
+    "name": "Pink Beanie",
+    "price": 50
+  },
+  "5944820481": {
+    "name": "Candy Cane Beanie",
+    "price": 50
+  },
+  "5944899051": {
+    "name": "Hair Accessory Daisy v1",
     "price": 50
   },
   "5945101387": {
@@ -2387,12 +2431,12 @@
     "name": "Christmas Light Hat",
     "price": 50
   },
-  "5963282680": {
-    "name": "Blue Paper-Like Crown",
+  "5949072478": {
+    "name": "Black Star Halo",
     "price": 50
   },
-  "5972743108": {
-    "name": "Cute Reindeer Beanie",
+  "5963279771": {
+    "name": "Yellow Paper-Like Crown",
     "price": 50
   },
   "5972767099": {
@@ -2403,16 +2447,12 @@
     "name": "Aquarium Antlers",
     "price": 50
   },
-  "5972857408": {
-    "name": "Beige Basic Beanie",
-    "price": 50
-  },
   "5972859807": {
     "name": "Black Basic Beanie \ud83d\udda4",
     "price": 50
   },
-  "5973980896": {
-    "name": "Silly Qooby",
+  "5972922282": {
+    "name": "Blue Snowflakes v1",
     "price": 50
   },
   "5973983601": {
@@ -2423,6 +2463,14 @@
     "name": "Snowflakes v2",
     "price": 50
   },
+  "5978045550": {
+    "name": "White Present Head",
+    "price": 50
+  },
+  "5978080181": {
+    "name": "Snow Present Head",
+    "price": 50
+  },
   "5978082391": {
     "name": "Pink Present Head",
     "price": 50
@@ -2431,40 +2479,32 @@
     "name": "Holiday HeadBow",
     "price": 50
   },
+  "5984669810": {
+    "name": "Snow Halo",
+    "price": 50
+  },
+  "5994596418": {
+    "name": "Spiral Santa hat",
+    "price": 50
+  },
   "5998833323": {
     "name": "Pet Elephant",
+    "price": 50
+  },
+  "6004055644": {
+    "name": "Deer Antlers",
     "price": 50
   },
   "6005243114": {
     "name": "Aquarium Outline",
     "price": 50
   },
-  "6005547972": {
-    "name": "Candycane Hair Bows in Pink",
-    "price": 50
-  },
   "6005554537": {
     "name": "Reindeer Fisherman Hat",
     "price": 50
   },
-  "6005557853": {
-    "name": "Snowman Fisherman Hat",
-    "price": 50
-  },
-  "6005598105": {
-    "name": "Ice Side",
-    "price": 50
-  },
-  "6005775787": {
-    "name": "Gold Ribbon Head",
-    "price": 50
-  },
   "6005850145": {
     "name": "Pumpkin Pie Beret",
-    "price": 50
-  },
-  "6005972443": {
-    "name": "Magenta Basic Beanie",
     "price": 50
   },
   "6006795447": {
@@ -2487,16 +2527,16 @@
     "name": "Ready Player Two Headphones",
     "price": 35
   },
-  "6025077907": {
-    "name": "Holiday ReinBow",
-    "price": 50
-  },
   "6035947104": {
     "name": "Magical Cloud",
     "price": 50
   },
   "6036164803": {
     "name": "Cute Pink Puffy Hood",
+    "price": 50
+  },
+  "6036230905": {
+    "name": "Snow Leopard Ears",
     "price": 50
   },
   "6036364774": {
@@ -2511,16 +2551,12 @@
     "name": "Dark Christmas Hood",
     "price": 50
   },
-  "6036676407": {
-    "name": "Green Christmas Hood",
-    "price": 50
-  },
   "6037240295": {
     "name": "Mint Deer Head",
     "price": 50
   },
-  "6039976076": {
-    "name": "Deer Headband",
+  "6042350882": {
+    "name": "Silver Fox Ears",
     "price": 50
   },
   "6042569105": {
@@ -2531,28 +2567,32 @@
     "name": "Sand Dragon Ears",
     "price": 50
   },
-  "6042584036": {
-    "name": "Sand Dragon Head",
+  "6042738236": {
+    "name": "Nerf Shark Head",
     "price": 50
   },
-  "6044028328": {
-    "name": "Santa's Black Beret",
+  "6043861330": {
+    "name": "Santa's Red Beret",
+    "price": 50
+  },
+  "6050271375": {
+    "name": "Grey Hyena Ears",
     "price": 50
   },
   "6054187150": {
     "name": "Elegant Low Hair Bow Black",
     "price": 50
   },
-  "6057668138": {
-    "name": "Big Feathered Wizard Hat",
-    "price": 50
-  },
   "6065514316": {
     "name": "Blue Limitless Gems",
     "price": 50
   },
-  "6065554822": {
-    "name": "Snow Queen",
+  "6065515577": {
+    "name": "Dango Antlers",
+    "price": 50
+  },
+  "6065518531": {
+    "name": "Green Limitless Gems",
     "price": 50
   },
   "6065568098": {
@@ -2571,6 +2611,14 @@
     "name": "Yellow Super Beanie",
     "price": 50
   },
+  "6066501195": {
+    "name": "Christmas Reindeer Headphones",
+    "price": 50
+  },
+  "6066539247": {
+    "name": "Purple Santa  Paws Hat",
+    "price": 50
+  },
   "6067551855": {
     "name": "Pink Deer HeadBand",
     "price": 50
@@ -2587,24 +2635,8 @@
     "name": "Black & Yellow Furred Dragon Head",
     "price": 50
   },
-  "6076005687": {
-    "name": "Black & Purple Wolf Ears",
-    "price": 50
-  },
-  "6076010100": {
-    "name": "Purple & Black Furred Dragon Ears",
-    "price": 50
-  },
   "6076015526": {
     "name": "Pink & Black Furred Dragon Ears",
-    "price": 50
-  },
-  "6076021354": {
-    "name": "Toxic Furred Gamer Dragon Head",
-    "price": 50
-  },
-  "6076025138": {
-    "name": "Black & Blue Furred Gamer Dragon",
     "price": 50
   },
   "6076025267": {
@@ -2613,10 +2645,6 @@
   },
   "6076030241": {
     "name": "Black & Pink Wolf Ears",
-    "price": 50
-  },
-  "6076033112": {
-    "name": "Gamer Dragon Head",
     "price": 50
   },
   "6076041099": {
@@ -2631,36 +2659,20 @@
     "name": "Black & Red Wolf Ears",
     "price": 50
   },
-  "6076119101": {
-    "name": "New Year's Furred Dragon Ears",
-    "price": 50
-  },
-  "6076141083": {
-    "name": "Mint Green Furred Dragon Ears",
-    "price": 50
-  },
   "6076159637": {
     "name": "Black Dragon Ears",
     "price": 50
   },
-  "6076181800": {
-    "name": "Trench Dragon Head",
+  "6076177529": {
+    "name": "Desert Coyote Ears",
     "price": 50
   },
   "6076220873": {
     "name": "Cotton Candy Wolf Ears",
     "price": 50
   },
-  "6076262942": {
-    "name": "Border Collie Ears",
-    "price": 50
-  },
   "6076296303": {
     "name": "Brown Wolf Ears",
-    "price": 50
-  },
-  "6076378936": {
-    "name": "Cotton Candy Fox Ears",
     "price": 50
   },
   "6076381366": {
@@ -2679,10 +2691,6 @@
     "name": "Black Fox Ears",
     "price": 50
   },
-  "6076628417": {
-    "name": "Black & Purple Fox Ears",
-    "price": 50
-  },
   "6076630712": {
     "name": "Black & Purple Fox Head",
     "price": 50
@@ -2699,24 +2707,12 @@
     "name": "Kitty Ears",
     "price": 50
   },
-  "6077367463": {
-    "name": "Patchwork Kitty Ears",
-    "price": 50
-  },
-  "6081347138": {
-    "name": "Darling Goat Horns Red",
-    "price": 50
-  },
   "6081365566": {
     "name": "Darling Goat Ears Purple",
     "price": 50
   },
   "6086556073": {
     "name": "Lovely Lace Pink Bow (v.2)",
-    "price": 50
-  },
-  "6092074837": {
-    "name": "Cotton Candy Shark Ears",
     "price": 50
   },
   "6095005624": {
@@ -2727,8 +2723,8 @@
     "name": "MP M1 Steel Pot",
     "price": 50
   },
-  "6097686254": {
-    "name": "Red Spiked Hood",
+  "6097869798": {
+    "name": "Pro Gamer Headphones Rainbow",
     "price": 50
   },
   "6097972272": {
@@ -2739,12 +2735,12 @@
     "name": "Snowman Beanie",
     "price": 50
   },
-  "6098204184": {
-    "name": "Blueberry Oatmeal Beanie",
+  "6098187966": {
+    "name": "Owl Mask",
     "price": 50
   },
-  "6098208421": {
-    "name": "Foggy Gray Beanie",
+  "6098204184": {
+    "name": "Blueberry Oatmeal Beanie",
     "price": 50
   },
   "6098212772": {
@@ -2755,16 +2751,8 @@
     "name": "Mint Green Tealeaf Beanie",
     "price": 50
   },
-  "6098223261": {
-    "name": "Strawberry Beanie",
-    "price": 50
-  },
-  "6098225578": {
-    "name": "Orange Beanie",
-    "price": 50
-  },
-  "6098345295": {
-    "name": "Cyan Scalie Dragon Head",
+  "6098230529": {
+    "name": "Ocean Blue Beanie",
     "price": 50
   },
   "6098370972": {
@@ -2791,32 +2779,32 @@
     "name": "Boho Princess Flowers",
     "price": 50
   },
-  "6098928245": {
-    "name": "Reindeer Carousel Hat",
-    "price": 50
-  },
-  "6099203364": {
-    "name": "Christmas Tree Hair Accessories",
-    "price": 50
-  },
   "6099364620": {
     "name": "Realistic Santa Head",
+    "price": 50
+  },
+  "6099530432": {
+    "name": "Green Flower Crown",
     "price": 50
   },
   "6099798302": {
     "name": "Head in a Toxic Potion",
     "price": 50
   },
-  "6099893497": {
-    "name": "Silver Jingle bell Earrings",
-    "price": 50
-  },
   "6101046104": {
     "name": "Mint Green Candycane Hoop Earrings",
     "price": 50
   },
+  "6101411364": {
+    "name": "Lucky Cap",
+    "price": 50
+  },
   "6101509298": {
     "name": "Christmas Tree",
+    "price": 50
+  },
+  "6102588654": {
+    "name": "Light Brown Eastern Elf Ears",
     "price": 50
   },
   "6102591099": {
@@ -2827,8 +2815,8 @@
     "name": "Dark Eastern Elf Ears",
     "price": 50
   },
-  "6104179976": {
-    "name": "Orange Neon Goggles",
+  "6103531606": {
+    "name": "Christmas Elk Hair Accessories",
     "price": 50
   },
   "6105475126": {
@@ -2839,20 +2827,24 @@
     "name": "Green Spiked Hood",
     "price": 50
   },
+  "6106490853": {
+    "name": "Pair of Realistic Hands",
+    "price": 50
+  },
   "6109492470": {
     "name": "Vampire Hunter (Pink)",
     "price": 50
   },
-  "6113616241": {
-    "name": "Basket Hat",
+  "6109507505": {
+    "name": "Vampire Hunter (Blue)",
+    "price": 50
+  },
+  "6112162654": {
+    "name": "Black 2021 Boppers",
     "price": 50
   },
   "6123720699": {
     "name": "Pride Santa Hat",
-    "price": 50
-  },
-  "6123787125": {
-    "name": "Non-Binary Santa Hat",
     "price": 50
   },
   "6127588655": {
@@ -2861,6 +2853,10 @@
   },
   "6130110538": {
     "name": "Panda Ears Headband Red",
+    "price": 50
+  },
+  "6130112823": {
+    "name": "Panda Ears Headband Orange",
     "price": 50
   },
   "6132543810": {
@@ -2875,16 +2871,8 @@
     "name": "Green Mecha Gamer Headphones",
     "price": 50
   },
-  "6136941427": {
-    "name": "Pink Mecha Gamer Headphones",
-    "price": 50
-  },
-  "6136972968": {
-    "name": "Purple Mecha Gamer Headphones",
-    "price": 50
-  },
-  "6137037909": {
-    "name": "Black Mecha Gamer Headphones",
+  "6137048848": {
+    "name": "Black/Pink Mecha Gamer Headphones",
     "price": 50
   },
   "6141644577": {
@@ -2895,24 +2883,16 @@
     "name": "White Spiked Hood",
     "price": 50
   },
-  "6154717109": {
-    "name": "Pink Snowflake v1",
-    "price": 50
-  },
   "6162124813": {
     "name": "Trident earrings",
     "price": 50
   },
-  "6164394281": {
-    "name": "Cute Egg Face",
-    "price": 50
-  },
-  "6187132756": {
-    "name": "Silver Hoop Earrings",
-    "price": 50
-  },
   "6187606720": {
     "name": "Flower Earrings",
+    "price": 50
+  },
+  "6187611668": {
+    "name": "Spring Earrings",
     "price": 50
   },
   "6201617971": {
@@ -2923,20 +2903,16 @@
     "name": "Solid Red Bunny Ears",
     "price": 50
   },
+  "6201651761": {
+    "name": "Solid Black Bunny Ears",
+    "price": 50
+  },
   "6201655685": {
     "name": "Drumsticks",
     "price": 50
   },
   "6201655920": {
     "name": "Solid Pink Bunny Ears",
-    "price": 50
-  },
-  "6201659167": {
-    "name": "Solid Blue Bunny Ears",
-    "price": 50
-  },
-  "6201659877": {
-    "name": "Backwards Black Horns",
     "price": 50
   },
   "6201670825": {
@@ -2955,6 +2931,10 @@
     "name": "Red Stuntman Helmet",
     "price": 50
   },
+  "6201693369": {
+    "name": "Backwards White Dragon Horns",
+    "price": 50
+  },
   "6201722123": {
     "name": "White Overgrown",
     "price": 50
@@ -2971,10 +2951,6 @@
     "name": "Green Hazmat Hood",
     "price": 50
   },
-  "6201733081": {
-    "name": "Wilted Overgrown",
-    "price": 50
-  },
   "6201735902": {
     "name": "Blue Hazmat Hood",
     "price": 50
@@ -2987,20 +2963,12 @@
     "name": "Large Black Wizard Hat",
     "price": 50
   },
-  "6201750444": {
-    "name": "Large Green Wizard Hat",
-    "price": 50
-  },
   "6201753381": {
     "name": "Large Grey Wizard Hat",
     "price": 50
   },
   "6201756100": {
     "name": "Large Light Blue Wizard Hat",
-    "price": 50
-  },
-  "6201760948": {
-    "name": "Large Pink Wizard Hat",
     "price": 50
   },
   "6201762589": {
@@ -3015,52 +2983,40 @@
     "name": "Darker Grey Scalie Dragon Ears",
     "price": 50
   },
-  "6201780554": {
-    "name": "Blue Scalie Dragon Ears",
+  "6201767344": {
+    "name": "Large Yellow Wizard Hat",
     "price": 50
   },
   "6201782276": {
     "name": "Dark Scalie Dragon Ears",
     "price": 50
   },
-  "6201788053": {
-    "name": "Orange Scalie Dragon Ears",
+  "6201785660": {
+    "name": "Flamingo Hat with Short Hair ",
     "price": 50
   },
-  "6201799415": {
-    "name": "Tan MICH Battery Pack",
+  "6201788053": {
+    "name": "Orange Scalie Dragon Ears",
     "price": 50
   },
   "6201809765": {
     "name": "Slipstream Battery Pack",
     "price": 50
   },
-  "6201817945": {
-    "name": "Red Shattered Dragon Horns",
-    "price": 50
-  },
   "6201820355": {
     "name": "Purple Shattered Dragon Head",
-    "price": 50
-  },
-  "6201832148": {
-    "name": "Green Shattered Dragon Horns",
     "price": 50
   },
   "6201845487": {
     "name": "Rainbow Flaming Demon Horns",
     "price": 50
   },
-  "6201849243": {
-    "name": "Purple Flaming Demon Horns",
-    "price": 50
-  },
   "6201859964": {
     "name": "Galactic Mining Enforcer",
     "price": 50
   },
-  "6201898190": {
-    "name": "Deer Aviators",
+  "6201923482": {
+    "name": "Cartoony Retrowave Head",
     "price": 50
   },
   "6201943099": {
@@ -3079,24 +3035,12 @@
     "name": "Purple Butterfly Hoop Earrings",
     "price": 50
   },
-  "6202193057": {
-    "name": "Green Gamer Headset",
-    "price": 50
-  },
-  "6202201375": {
-    "name": "Turquoise Butterfly Silver Hoop Earrings",
-    "price": 50
-  },
   "6202205717": {
     "name": "Red Head Bow",
     "price": 50
   },
   "6202243486": {
     "name": "Blue Head Bow",
-    "price": 50
-  },
-  "6202269358": {
-    "name": "Heart Gold Rose Tiara",
     "price": 50
   },
   "6202276481": {
@@ -3107,24 +3051,16 @@
     "name": "Trench Fox Ears",
     "price": 50
   },
+  "6202456558": {
+    "name": "White Toony Demon Head",
+    "price": 50
+  },
   "6202457542": {
     "name": "Cyan Toony Demon Head",
     "price": 50
   },
-  "6202532503": {
-    "name": "Fluffy Bee Antennae",
-    "price": 50
-  },
   "6202548121": {
     "name": "Sea Slug Antennae",
-    "price": 50
-  },
-  "6202627842": {
-    "name": "Red Toony Demon Head",
-    "price": 50
-  },
-  "6202710766": {
-    "name": "Urban Explorer (No Shades)",
     "price": 50
   },
   "6202731421": {
@@ -3147,8 +3083,12 @@
     "name": "Galaxy Frostbite Horns",
     "price": 50
   },
-  "6202803087": {
-    "name": "Pink Frostbite Horns",
+  "6202929469": {
+    "name": "Gemstone Wizard of Red Ruby",
+    "price": 50
+  },
+  "6202943584": {
+    "name": "Adorned Nutcracker Hat",
     "price": 50
   },
   "6202955857": {
@@ -3167,8 +3107,16 @@
     "name": "Black and White Bear Mask",
     "price": 50
   },
+  "6203503814": {
+    "name": "Black Techwear Headphones",
+    "price": 50
+  },
   "6203511521": {
     "name": "Crystal Crown",
+    "price": 50
+  },
+  "6203521805": {
+    "name": "Black Tech Goggles (Raised)",
     "price": 50
   },
   "6203532296": {
@@ -3191,28 +3139,36 @@
     "name": "Tied Pink Headband",
     "price": 50
   },
-  "6203587851": {
-    "name": "Frost Crown",
-    "price": 50
-  },
   "6203674959": {
     "name": "White Lil Bunny",
+    "price": 50
+  },
+  "6203788531": {
+    "name": "Cap Cap",
+    "price": 50
+  },
+  "6203840248": {
+    "name": "Meh Cap",
     "price": 50
   },
   "6206421114": {
     "name": "Purple Loose Hood",
     "price": 50
   },
-  "6207095640": {
-    "name": "Pink Tiara Ribbon",
-    "price": 50
-  },
   "6207911613": {
     "name": "Cyber Bunny Helmet - Orange",
     "price": 50
   },
-  "6212206067": {
-    "name": "Lupin Eye of the Seer",
+  "6207917519": {
+    "name": "Cyber Bunny Helmet - Red",
+    "price": 50
+  },
+  "6207920721": {
+    "name": "Cyber Bunny Helmet - Pink (LIGHT SERIES)",
+    "price": 50
+  },
+  "6229626001": {
+    "name": "Bunny Hair Clip",
     "price": 50
   },
   "6238336272": {
@@ -3223,16 +3179,8 @@
     "name": "Red Hood of Blood Fire",
     "price": 50
   },
-  "6238498275": {
-    "name": "Flowerpot Head",
-    "price": 50
-  },
   "6238506512": {
     "name": "Leaf Sprout",
-    "price": 50
-  },
-  "6238531492": {
-    "name": "Ombre Pink Schob Pet!",
     "price": 50
   },
   "6238555339": {
@@ -3245,6 +3193,14 @@
   },
   "6238580142": {
     "name": "Ombre Blue Schob Pet!",
+    "price": 50
+  },
+  "6238583315": {
+    "name": "Blue Schob Pet!",
+    "price": 50
+  },
+  "6238622574": {
+    "name": "Lovely Cute Pink Bow",
     "price": 50
   },
   "6238630483": {
@@ -3267,12 +3223,12 @@
     "name": "Monsterous Green Cable-Knit Eye",
     "price": 50
   },
-  "6239050606": {
-    "name": "Monsterous Pink Cable-Knit Eye",
+  "6239045764": {
+    "name": "Monsterous Orange Cable-Knit Eye",
     "price": 50
   },
-  "6239873237": {
-    "name": "Interstellar Striker's Helmet",
+  "6239050606": {
+    "name": "Monsterous Pink Cable-Knit Eye",
     "price": 50
   },
   "6239952695": {
@@ -3283,24 +3239,28 @@
     "name": "Sir.Rabbi ",
     "price": 50
   },
-  "6252209683": {
-    "name": "Boba Earrings",
+  "6241103972": {
+    "name": "Noob Ninja Headband",
     "price": 50
   },
-  "6263792445": {
-    "name": "Blue Pearly Tiara",
+  "6241153551": {
+    "name": "Notifier Egg",
     "price": 50
   },
-  "6274827555": {
-    "name": "Crayon Hat Cyan",
+  "6242420143": {
+    "name": "Dripping Spectrum Antlers",
+    "price": 50
+  },
+  "6256293309": {
+    "name": "Arcane Hood of the Night Archmage",
     "price": 50
   },
   "6275543359": {
     "name": "Pie Beret - Blueberry",
     "price": 50
   },
-  "6275614289": {
-    "name": "Cat Paws Higher",
+  "6275546465": {
+    "name": "Pie Beret - Cherry",
     "price": 50
   },
   "6275637828": {
@@ -3315,6 +3275,10 @@
     "name": "Mutant Pearclops",
     "price": 50
   },
+  "6275814348": {
+    "name": "Mutant Jellyfishroom",
+    "price": 50
+  },
   "6275846848": {
     "name": "Realistic Grab Hands",
     "price": 50
@@ -3323,12 +3287,24 @@
     "name": "Cat Paws White Orange",
     "price": 50
   },
+  "6275881329": {
+    "name": "Black Lace Heart Boppers",
+    "price": 50
+  },
+  "6277410477": {
+    "name": "Broken Blue Bear",
+    "price": 50
+  },
   "6279516909": {
     "name": "GG Beanie ",
     "price": 50
   },
-  "6280086265": {
-    "name": "Classic Pink Party Hat",
+  "6279837445": {
+    "name": "Cat Paws Black Orange",
+    "price": 50
+  },
+  "6284610540": {
+    "name": "Strawberry Chocolate Confetti",
     "price": 50
   },
   "6284625948": {
@@ -3339,8 +3315,28 @@
     "name": "Rainy Cloud",
     "price": 50
   },
+  "6309192941": {
+    "name": "Ribbon Pom Poms Pink",
+    "price": 50
+  },
+  "6309202526": {
+    "name": "Blue Kobold Frills",
+    "price": 50
+  },
+  "6309205437": {
+    "name": "Ribbon Pom Poms Purple",
+    "price": 50
+  },
   "6309214263": {
     "name": "Green Kobold Frills",
+    "price": 50
+  },
+  "6309261377": {
+    "name": "Cartoon Clouds",
+    "price": 50
+  },
+  "6309302795": {
+    "name": "Plaid Trendy Hat",
     "price": 50
   },
   "6309310039": {
@@ -3351,8 +3347,8 @@
     "name": "Tough Kid Bandana",
     "price": 50
   },
-  "6309450476": {
-    "name": "Black  smoke effect",
+  "6309340755": {
+    "name": "Wide Bird",
     "price": 50
   },
   "6309453214": {
@@ -3375,16 +3371,20 @@
     "name": "Discoloration Mask-Blue and Purple",
     "price": 50
   },
+  "6310453788": {
+    "name": "Broken White Bear",
+    "price": 50
+  },
   "6312179750": {
     "name": "Big Doggo Head",
     "price": 50
   },
-  "6313484465": {
-    "name": "Cyan/Blue Laurel Crown",
-    "price": 50
-  },
   "6313492325": {
     "name": "White Laurel Crown",
+    "price": 50
+  },
+  "6314320860": {
+    "name": "Pink Hat",
     "price": 50
   },
   "6316453463": {
@@ -3395,20 +3395,16 @@
     "name": "Non-Binary Flag Hair Bandana",
     "price": 50
   },
-  "6317642872": {
-    "name": "Strawberry Boba Earrings",
+  "6342676866": {
+    "name": "Heart Demon Face Mask",
     "price": 50
   },
-  "6336234117": {
-    "name": "Lace Heart Dark Boppers",
+  "6342679466": {
+    "name": "Blue Koi Fish Vintage Print Beret",
     "price": 50
   },
   "6342691432": {
     "name": "Heart Eye Patch 1.0",
-    "price": 50
-  },
-  "6342696193": {
-    "name": "Happy Demon Face Mask",
     "price": 50
   },
   "6342696460": {
@@ -3417,10 +3413,6 @@
   },
   "6343674921": {
     "name": "Robot Head-Happy",
-    "price": 50
-  },
-  "6343702615": {
-    "name": "Glass Robot Head",
     "price": 50
   },
   "6343706320": {
@@ -3447,12 +3439,16 @@
     "name": "Froggy Vintage Print Beret V2",
     "price": 50
   },
-  "6354459401": {
-    "name": "Blue Koi Fish Aesthetic Print Beret V2",
+  "6358116432": {
+    "name": "Cartoon cat ears",
     "price": 50
   },
   "6370654125": {
     "name": "Cherry Hair Clip",
+    "price": 50
+  },
+  "6376216767": {
+    "name": "Pink Diamond Forehead Implant",
     "price": 50
   },
   "6376349570": {
@@ -3463,48 +3459,24 @@
     "name": "Present Lid with a Pink Bow",
     "price": 50
   },
-  "6376651970": {
-    "name": "Yellow Kobold Frills ",
-    "price": 50
-  },
   "6377274935": {
     "name": "Brown Flat Cap",
-    "price": 50
-  },
-  "6377328912": {
-    "name": "Vintage Police Cap",
-    "price": 50
-  },
-  "6377351062": {
-    "name": "Valet Driver Cap",
     "price": 50
   },
   "6377367159": {
     "name": "The Sergeant's Cap",
     "price": 50
   },
-  "6377800673": {
-    "name": "White Broken Hearts",
-    "price": 50
-  },
-  "6377803030": {
-    "name": "Pink Half Camo Hood",
-    "price": 50
-  },
   "6378964240": {
     "name": "Black Diamond Forehead Implant",
     "price": 50
   },
+  "6380133913": {
+    "name": "Brown Kitty Beanie",
+    "price": 50
+  },
   "6380198733": {
     "name": "Tofu Head",
-    "price": 50
-  },
-  "6390198366": {
-    "name": "Stand Together",
-    "price": 50
-  },
-  "6410191241": {
-    "name": "Right Red Dragon Horn",
     "price": 50
   },
   "6410768187": {
@@ -3515,28 +3487,28 @@
     "name": "Full Moon Mask",
     "price": 50
   },
-  "6432270468": {
-    "name": "Adorable Double Bows Red w stripe",
+  "6419521256": {
+    "name": "Flamingo Hoodie",
     "price": 50
   },
-  "6441027257": {
-    "name": "Glass Halo",
+  "6432270468": {
+    "name": "Adorable Double Bows Red w stripe",
     "price": 50
   },
   "6441353596": {
     "name": "Pail (Red)",
     "price": 50
   },
-  "6441690130": {
-    "name": "Grey Eastern Elf Ears",
+  "6441693876": {
+    "name": "Pastel Green Eastern Elf Ears",
     "price": 50
   },
-  "6441692053": {
-    "name": "White Eastern Elf Ears",
+  "6441761696": {
+    "name": "Sabertooth Earrings",
     "price": 50
   },
-  "6444088900": {
-    "name": "Black Fox Beanie",
+  "6443936002": {
+    "name": "Magical Gem Halo",
     "price": 50
   },
   "6448427210": {
@@ -3547,24 +3519,16 @@
     "name": "Blue Planetary Earrings",
     "price": 50
   },
-  "6470963004": {
-    "name": "Cute Maid Headpiece Blue",
+  "6472124082": {
+    "name": "TV Antenna",
     "price": 50
   },
-  "6472590807": {
-    "name": "Its My Birthday Hat",
+  "6472454917": {
+    "name": "smug cat",
     "price": 50
   },
   "6474480214": {
     "name": "Yin Yang Fragment Horns",
-    "price": 50
-  },
-  "6475327099": {
-    "name": "Roplex Crown",
-    "price": 50
-  },
-  "6475734842": {
-    "name": "Tengu Hat",
     "price": 50
   },
   "6478610506": {
@@ -3575,12 +3539,20 @@
     "name": "Daffodil Headband",
     "price": 50
   },
-  "6483095018": {
-    "name": "Black Simple Stylish Cap",
+  "6479325640": {
+    "name": "Froggy Earrings",
     "price": 50
   },
-  "6502881793": {
-    "name": "Double Clover",
+  "6480682533": {
+    "name": "Kawaii Bear Headband",
+    "price": 50
+  },
+  "6500627059": {
+    "name": "Interstellar Admiral's Helmet",
+    "price": 50
+  },
+  "6502551484": {
+    "name": "Pink Paper Plane",
     "price": 50
   },
   "6503115965": {
@@ -3619,20 +3591,20 @@
     "name": "Lollipop Earrings: Grape",
     "price": 50
   },
-  "6507535445": {
-    "name": "Moon Crown",
-    "price": 50
-  },
   "6509977950": {
     "name": "Green Tea Boba Earrings",
+    "price": 50
+  },
+  "6515935327": {
+    "name": "Sparkling Earrings",
     "price": 50
   },
   "6530141915": {
     "name": "Fluorescent bunny ears2.0",
     "price": 50
   },
-  "6532296291": {
-    "name": "Woodland Digital Utility Cover",
+  "6532458724": {
+    "name": "Kawaii Cat Headphones [Pink]",
     "price": 50
   },
   "6533371864": {
@@ -3643,16 +3615,16 @@
     "name": "Golden Phoenix Cap",
     "price": 50
   },
-  "6533448448": {
-    "name": "Cyber Antlers",
-    "price": 50
-  },
-  "6536610842": {
-    "name": "Front-Facing Rhinestone Hat [Black]",
+  "6536604884": {
+    "name": "Flipped Rhinestone Hat [Black]",
     "price": 50
   },
   "6540824938": {
     "name": "Screentone Halo",
+    "price": 50
+  },
+  "6547128939": {
+    "name": "Front-Facing Rhinestone Hat [Brown]",
     "price": 50
   },
   "6555565708": {
@@ -3663,10 +3635,6 @@
     "name": "Yellow Diamond Forehead Implant ",
     "price": 50
   },
-  "6567821741": {
-    "name": "Heart Particles",
-    "price": 50
-  },
   "6568464296": {
     "name": "\ud83d\udc30 Futuristic Blue Bunny Mask & Eyes",
     "price": 50
@@ -3675,8 +3643,8 @@
     "name": "Princess of Excessive Flair",
     "price": 50
   },
-  "6595023639": {
-    "name": "Frog and Mushroom Confetti",
+  "6594647786": {
+    "name": "Fluffy Fox Ears",
     "price": 50
   },
   "6595629841": {
@@ -3691,11 +3659,19 @@
     "name": "Black Rainbow Rabbit Ear",
     "price": 50
   },
+  "6603386310": {
+    "name": "White Chef Hat",
+    "price": 50
+  },
+  "6655832198": {
+    "name": "Cute Piggy Hood",
+    "price": 50
+  },
   "6658872497": {
     "name": "Big Fluffy White Ears",
     "price": 50
   },
-  "6682383287": {
+  "6682379696": {
     "name": "Ears with Black Gauges",
     "price": 50
   },
@@ -3703,36 +3679,32 @@
     "name": "White Cottagecore Hat Ribbon",
     "price": 50
   },
-  "6682585796": {
-    "name": "Pink Cottagecore Hat Ribbion",
+  "6682564766": {
+    "name": "Blue Cottagecore Hat Ribbion",
     "price": 50
   },
   "6682586744": {
     "name": "Black Cottagecore Hat Ribbion",
     "price": 50
   },
-  "6682685029": {
-    "name": "Cottagecore Black Ruffled Bonnet",
-    "price": 50
-  },
   "6682833596": {
     "name": "Hibiscus Flower Trendy Hat",
     "price": 50
   },
-  "6682976000": {
-    "name": "Volcano Hat",
+  "6683011868": {
+    "name": "Garland",
     "price": 50
   },
-  "6684214880": {
-    "name": "Stars Balloon",
+  "6683032536": {
+    "name": "Teacup White Puppy",
     "price": 50
   },
-  "6684281863": {
-    "name": "Hand Draw Smiling Face",
+  "6684212016": {
+    "name": "Embarrassed",
     "price": 50
   },
-  "6684402616": {
-    "name": "Black Bow Lace",
+  "6687430999": {
+    "name": "Small Pink Bow",
     "price": 50
   },
   "6710176584": {
@@ -3743,12 +3715,20 @@
     "name": "Cottagecore Floral Ribbons",
     "price": 50
   },
+  "6711758882": {
+    "name": "Dripping Ice Cream Smile Mask",
+    "price": 50
+  },
+  "6711811097": {
+    "name": "Strawberry Knit Hat\ud83c\udf53",
+    "price": 50
+  },
   "6712134269": {
     "name": "Kemono Grey Cat Head",
     "price": 50
   },
-  "6714846495": {
-    "name": "Gaming Neon Horns",
+  "6714666471": {
+    "name": "Entwined Head",
     "price": 50
   },
   "6715349541": {
@@ -3763,28 +3743,32 @@
     "name": "Sticker Ears",
     "price": 50
   },
-  "6715977167": {
-    "name": "Music Player",
+  "6715362266": {
+    "name": "Sticker Ears",
     "price": 50
   },
   "6718324576": {
     "name": "Cookies And Milk Top Hat",
     "price": 50
   },
-  "6741178550": {
-    "name": "Black Tied Influencer Hat",
+  "6741131672": {
+    "name": "Droopy Elf Ears",
+    "price": 50
+  },
+  "6741165678": {
+    "name": "CJ's Cap",
     "price": 50
   },
   "6741246312": {
     "name": "Snapback w/ Headphones (Purple)",
     "price": 50
   },
-  "6741248741": {
-    "name": "Snapback w/ Headphones (Grey)",
-    "price": 50
-  },
   "6741314613": {
     "name": "Fire Cap",
+    "price": 50
+  },
+  "6741548996": {
+    "name": "Black Furry Ears",
     "price": 50
   },
   "6741687111": {
@@ -3799,8 +3783,16 @@
     "name": "Shiba Inu",
     "price": 50
   },
+  "6745025625": {
+    "name": "Infected Super Villain Head",
+    "price": 50
+  },
   "6773641060": {
     "name": "Super Duck Mask",
+    "price": 50
+  },
+  "6774035704": {
+    "name": "Noob Cap",
     "price": 50
   },
   "6774077134": {
@@ -3813,10 +3805,6 @@
   },
   "6774422814": {
     "name": "Fire Cap Orange Back",
-    "price": 50
-  },
-  "6774521321": {
-    "name": "Huskie",
     "price": 50
   },
   "6774525512": {
@@ -3833,6 +3821,14 @@
   },
   "6775743333": {
     "name": "Crimson & White Fyre Cap",
+    "price": 50
+  },
+  "6778996184": {
+    "name": "Black Fluffy Bunny Hat",
+    "price": 50
+  },
+  "6779012417": {
+    "name": "Brown Fluffy Bear Hat",
     "price": 50
   },
   "6785204417": {
@@ -3855,24 +3851,16 @@
     "name": "Color Changing Headband - Pink to Black",
     "price": 50
   },
-  "6808363147": {
-    "name": "Mischievous smile mask",
-    "price": 50
-  },
-  "6808591977": {
-    "name": "Butterfly Tiara",
-    "price": 50
-  },
-  "6808612665": {
-    "name": "Skull Head",
-    "price": 50
-  },
   "6809030907": {
     "name": "Damage Aura",
     "price": 50
   },
-  "6809825919": {
-    "name": "Black & White Iconic Fyre Cap",
+  "6811230309": {
+    "name": "Dark Crimson Goat Horn Getup",
+    "price": 50
+  },
+  "6811343813": {
+    "name": "Kemono White Cat Ears",
     "price": 50
   },
   "6816899900": {
@@ -3891,20 +3879,12 @@
     "name": "Divided Mischievous Smile Mask",
     "price": 50
   },
-  "6838616052": {
-    "name": "Fabulous Arctic Fox Ears",
+  "6839147869": {
+    "name": "Stressed Out",
     "price": 50
   },
-  "6838744483": {
+  "6839400892": {
     "name": "Handkerchief Headscarf",
-    "price": 50
-  },
-  "6839180558": {
-    "name": "Cat Sleeping Mask",
-    "price": 50
-  },
-  "6839244192": {
-    "name": "Polar Bear Sleeping Mask",
     "price": 50
   },
   "6839462595": {
@@ -3919,14 +3899,6 @@
     "name": "Earth Bulbs",
     "price": 50
   },
-  "6841933527": {
-    "name": "Mr.Brightside's Mask - Yellow",
-    "price": 50
-  },
-  "6844549478": {
-    "name": "Maid Ruffled Top Hat With Veil",
-    "price": 50
-  },
   "6848020235": {
     "name": "Dice earrings Black",
     "price": 50
@@ -3939,20 +3911,32 @@
     "name": "Yellow Cottagecore Sunhat",
     "price": 50
   },
-  "6855948016": {
-    "name": "Blue Plaid Ruffled Headband",
-    "price": 50
-  },
-  "6871230620": {
-    "name": "Chunky Headphones ",
+  "6855943755": {
+    "name": "Pink Plaid Ruffled Headband",
     "price": 50
   },
   "6873031034": {
     "name": "Star Men",
     "price": 50
   },
-  "6897610714": {
-    "name": "Butterfly Pendant",
+  "6873605338": {
+    "name": "Pog Beanie Orange",
+    "price": 50
+  },
+  "6873619166": {
+    "name": "Sus Beanie Grey",
+    "price": 50
+  },
+  "6875790386": {
+    "name": "Gery Hamster Pet",
+    "price": 50
+  },
+  "6878922294": {
+    "name": "Toxic Turmoil",
+    "price": 50
+  },
+  "6885500229": {
+    "name": "White Cat Head",
     "price": 50
   },
   "6902099704": {
@@ -3963,8 +3947,16 @@
     "name": "Blossom Blueberry Confetti",
     "price": 50
   },
+  "6902648587": {
+    "name": "Pride Heart Cap: Trans",
+    "price": 50
+  },
   "6902669756": {
     "name": "Pride Heart Cap: Pan",
+    "price": 50
+  },
+  "6903411880": {
+    "name": "Mallard Duck Mask",
     "price": 50
   },
   "6904237378": {
@@ -3979,12 +3971,20 @@
     "name": "Green Fashion Hood",
     "price": 50
   },
+  "6905056406": {
+    "name": "Rosy Maple Moth Antennae",
+    "price": 50
+  },
   "6906165382": {
     "name": "Skid The Skeleton",
     "price": 50
   },
-  "6909770568": {
-    "name": "Fluffy Dark Trendy Hat",
+  "6906808215": {
+    "name": "Darker Grey Furred Dragon Ears",
+    "price": 50
+  },
+  "6907889123": {
+    "name": "Shooting Star Halo-Silver",
     "price": 50
   },
   "6909772316": {
